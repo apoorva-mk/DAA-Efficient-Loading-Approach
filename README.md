@@ -1,3 +1,3 @@
-# DAA-Efficient-Loading-Approach
+# DAA-Genetic-Algorithm-TSP
 
-Algorithm for effieciently filling volume of container with cargo
+Algorithm for solving Travelling Salesman Problem using in Genetic Algorithm
